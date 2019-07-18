@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-react</string>
+    <string name="title_activity_main">ionic-react</string>
+    <string name="package_name">com.djamware.ionicreact</string>
+    <string name="fileprovider_authority">com.djamware.ionicreact.fileprovider</string>
+    <string name="custom_url_scheme">com.djamware.ionicreact</string>
+</resources>
