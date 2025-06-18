@@ -1,7 +1,5 @@
 {
-  "appId": "com.djamware.ionicreact",
-  "appName": "ionic-react",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build"
+	"appId": "io.ionic.starter",
+	"appName": "ionic-react",
+	"webDir": "dist"
 }

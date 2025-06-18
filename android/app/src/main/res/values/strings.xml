@@ -2,7 +2,6 @@
 <resources>
     <string name="app_name">ionic-react</string>
     <string name="title_activity_main">ionic-react</string>
-    <string name="package_name">com.djamware.ionicreact</string>
-    <string name="fileprovider_authority">com.djamware.ionicreact.fileprovider</string>
-    <string name="custom_url_scheme">com.djamware.ionicreact</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
 </resources>
